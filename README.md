@@ -1,12 +1,14 @@
-#Dissertation Work 2018
+# Dissertation Work 2018
+## Anna Frances Rasburn
 
-##Written Work
+## Written Work
 Interim Stage:
 * Poster
 * Interim Report
 * Readings
 * Dissertation Log
-##Code
+
+## Code
 AnnaGin 
 * 
 Opacitor
