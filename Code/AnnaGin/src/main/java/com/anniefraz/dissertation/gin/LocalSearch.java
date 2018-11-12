@@ -1,12 +1,8 @@
 package com.anniefraz.dissertation.gin;
 
-import com.anniefraz.dissertation.gin.edit.Edit;
-
-import java.util.Random;
-import java.util.logging.Logger;
-
 public class LocalSearch {
 
+    /*
     private Patch patch; //like population
 
     private Edit fittest; //Individual
@@ -46,6 +42,7 @@ public class LocalSearch {
         return Patch.random();
 
     }
+    */
 
 
 }

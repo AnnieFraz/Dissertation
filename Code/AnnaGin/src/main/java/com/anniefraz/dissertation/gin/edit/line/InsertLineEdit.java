@@ -16,6 +16,20 @@ public class InsertLineEdit extends SingleClassEdit {
     }
 
     @Override
+    public String toString() {
+        return "InsertLineEdit{" +
+                "lineNumber=" + lineNumber +
+                ", lineContents='" + lineContents + '\'' +
+                '}';
+    }
+
+    /*
+      public String toString(){
+        return  ReflectionToStringBuilder.toString(this);
+    }
+     */
+
+    @Override
     protected void applyMethod(AnnaClass annaClass) {
         annaClass.getLines().add(lineNumber, lineContents);
     }
