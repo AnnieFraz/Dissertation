@@ -1,4 +1,14 @@
 #Dissertation Work 2018
 
-*Here are written work
-*Here is code
+##Written Work
+Interim Stage:
+* Poster
+* Interim Report
+* Readings
+* Dissertation Log
+##Code
+AnnaGin 
+* 
+Opacitor
+
+
